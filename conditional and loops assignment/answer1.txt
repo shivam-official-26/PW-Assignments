@@ -1,0 +1,17 @@
+Q1. What are conditional statements? Explain conditional statements with syntax and examples.
+
+Conditional statements, also known as decision-making statements, are fundamental building blocks in programming. They allow programs to execute different sections of code based on whether certain conditions are true or false. This enables programs to make decisions and respond accordingly.
+
+Syntax:
+
+The basic syntax for a conditional statement varies slightly depending on the programming language, but generally follows this format:
+
+if (condition) {
+  // code to execute if the condition is true
+}
+Here, condition is an expression that evaluates to either true or false. If the condition is true, the code block within the curly braces {} is executed.
+example 
+const age=18;
+if(age>18){
+    console.log("you can vote")
+}
