@@ -1,0 +1,6 @@
+Problem Statement 2
+Describe the usage of the comma operator in JavaScript and provide an example.
+
+The comma operator (,) in JavaScript is used to evaluate multiple expressions and return the value of the rightmost expression. It essentially separates expressions, executing them from left to right.
+
+example let x = 10, y = 20;
